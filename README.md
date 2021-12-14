@@ -24,3 +24,7 @@ pip install numpy <br />
 pip install matplotlib <br />
 pip install scipy <br />
 pip install pyinstaller <br />
+
+To obtain .exe file <br />
+Run command: 
+pyinstaller --onefile DiscreteCosineTransform.py
